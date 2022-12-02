@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "./components/Button";
-import Column from "./components/column";
+import Column from "./components/Column";
 import TextInput from "./components/Input";
 import Layout from "./components/Layout";
 
